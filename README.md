@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NovartGITHUB
 - 👀 I’m interested in predictive analytics, expert systems, and business intelligence
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on business/data analytics related projects
+- 🌱 I’m currently a data science Masters student
+- 💞️ I’m looking to collaborate on data science/data analytics related projects
 - 📫 How to reach me: https://www.linkedin.com/in/itnovart/
 
 <!---
